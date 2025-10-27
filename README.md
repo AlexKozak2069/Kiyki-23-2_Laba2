@@ -1,2 +1,2 @@
-# Kiyki-23-2_Laaba2
+# Kiyki-23-2_Laba2
 Laba2
